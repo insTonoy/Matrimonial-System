@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\searchuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\searchuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\loginpage\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\loginpage\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\loginpage\\searchuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\searchuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\loginpage\\viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\loginpage\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\searchuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\searchuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\search.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\search.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\loginpage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\adminedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\adminedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\adminedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\adminedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\addadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\addadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\loginpage\\adminedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\adminedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\loginpage\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\admin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\admin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\loginpage\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|c:\\users\\raiya\\desktop\\matrimonial-system\\loginpage\\loginpage\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63850B28-10CE-492D-BD0D-D2F740BDC9A1}|Loginpage\\Loginpage.csproj|solutionrelative:loginpage\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Admin.cs",
+              "RelativeDocumentMoniker": "Loginpage\\Admin.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Admin.cs",
+              "RelativeToolTip": "Loginpage\\Admin.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwJUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:22:49.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "searchUser.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\searchUser.cs",
+              "RelativeDocumentMoniker": "Loginpage\\searchUser.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\searchUser.cs",
+              "RelativeToolTip": "Loginpage\\searchUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T17:51:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "viewUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\viewUser.cs",
+              "RelativeDocumentMoniker": "Loginpage\\viewUser.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\viewUser.cs [Design]",
+              "RelativeToolTip": "Loginpage\\viewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T17:58:04.369Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "viewUser.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\viewUser.cs",
+              "RelativeDocumentMoniker": "Loginpage\\viewUser.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\viewUser.cs",
+              "RelativeToolTip": "Loginpage\\viewUser.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAFMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T17:58:21.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Admin.cs",
+              "RelativeDocumentMoniker": "Loginpage\\Admin.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Admin.cs [Design]",
+              "RelativeToolTip": "Loginpage\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T20:06:24.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "forgetpass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\forgetpass.cs",
+              "RelativeDocumentMoniker": "Loginpage\\forgetpass.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\forgetpass.cs [Design]",
+              "RelativeToolTip": "Loginpage\\forgetpass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T19:49:03.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "searchUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\searchUser.cs",
+              "RelativeDocumentMoniker": "Loginpage\\searchUser.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\searchUser.cs [Design]",
+              "RelativeToolTip": "Loginpage\\searchUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:49:06.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "search.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\search.cs",
+              "RelativeDocumentMoniker": "Loginpage\\search.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\search.cs [Design]",
+              "RelativeToolTip": "Loginpage\\search.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T17:01:03.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "searchUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\searchUser.Designer.cs",
+              "RelativeDocumentMoniker": "Loginpage\\searchUser.Designer.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\searchUser.Designer.cs",
+              "RelativeToolTip": "Loginpage\\searchUser.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T21:41:42.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "search.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\search.Designer.cs",
+              "RelativeDocumentMoniker": "Loginpage\\search.Designer.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\search.Designer.cs",
+              "RelativeToolTip": "Loginpage\\search.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T21:50:47.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "search.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\search.cs",
+              "RelativeDocumentMoniker": "Loginpage\\search.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\search.cs",
+              "RelativeToolTip": "Loginpage\\search.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T20:27:47.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Admin.Designer.cs",
+              "RelativeDocumentMoniker": "Loginpage\\Admin.Designer.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Admin.Designer.cs",
+              "RelativeToolTip": "Loginpage\\Admin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:25:27.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Form1.cs",
+              "RelativeDocumentMoniker": "Loginpage\\Form1.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Form1.cs [Design]",
+              "RelativeToolTip": "Loginpage\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T16:23:42.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "addAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\addAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "Loginpage\\addAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\addAdmin.Designer.cs",
+              "RelativeToolTip": "Loginpage\\addAdmin.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:45:38.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Form1.cs",
+              "RelativeDocumentMoniker": "Loginpage\\Form1.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Form1.cs",
+              "RelativeToolTip": "Loginpage\\Form1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAcwHIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T16:48:09.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "adminEdit.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\adminEdit.cs",
+              "RelativeDocumentMoniker": "Loginpage\\adminEdit.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\adminEdit.cs",
+              "RelativeToolTip": "Loginpage\\adminEdit.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:43:20.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "adminEdit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\adminEdit.cs",
+              "RelativeDocumentMoniker": "Loginpage\\adminEdit.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\adminEdit.cs [Design]",
+              "RelativeToolTip": "Loginpage\\adminEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:12:47.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adminEdit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\adminEdit.Designer.cs",
+              "RelativeDocumentMoniker": "Loginpage\\adminEdit.Designer.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\adminEdit.Designer.cs",
+              "RelativeToolTip": "Loginpage\\adminEdit.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:48:54.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "addAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\addAdmin.cs",
+              "RelativeDocumentMoniker": "Loginpage\\addAdmin.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\addAdmin.cs [Design]",
+              "RelativeToolTip": "Loginpage\\addAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T12:04:45.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Loginpage\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Form1.Designer.cs",
+              "RelativeToolTip": "Loginpage\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:19:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "forgetpass.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\forgetpass.cs",
+              "RelativeDocumentMoniker": "Loginpage\\forgetpass.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\forgetpass.cs",
+              "RelativeToolTip": "Loginpage\\forgetpass.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:02:56.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Admin.resx",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Admin.resx",
+              "RelativeDocumentMoniker": "Loginpage\\Admin.resx",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Admin.resx",
+              "RelativeToolTip": "Loginpage\\Admin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-01T15:22:46.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\UserForm.Designer.cs",
+              "RelativeDocumentMoniker": "Loginpage\\UserForm.Designer.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\UserForm.Designer.cs",
+              "RelativeToolTip": "Loginpage\\UserForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:07:47.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Signup.cs",
+              "RelativeDocumentMoniker": "Loginpage\\Signup.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Signup.cs",
+              "RelativeToolTip": "Loginpage\\Signup.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAowHcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:11:20.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Signup.cs",
+              "RelativeDocumentMoniker": "Loginpage\\Signup.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Signup.cs [Design]",
+              "RelativeToolTip": "Loginpage\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:56:49.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Signup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Signup.Designer.cs",
+              "RelativeDocumentMoniker": "Loginpage\\Signup.Designer.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\Signup.Designer.cs",
+              "RelativeToolTip": "Loginpage\\Signup.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T20:31:05.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\UserForm.cs",
+              "RelativeDocumentMoniker": "Loginpage\\UserForm.cs",
+              "ToolTip": "C:\\Users\\raiya\\Desktop\\Matrimonial-System\\Loginpage\\Loginpage\\UserForm.cs",
+              "RelativeToolTip": "Loginpage\\UserForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T20:54:59.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
